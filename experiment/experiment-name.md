@@ -1,1 +1,1 @@
-## Experiment name
+## Similarity search using BLAST
