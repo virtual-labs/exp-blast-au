@@ -1,6 +1,6 @@
 ### Learning Objectives
 
-•	To learn basics of BLAST algorithm.
+•	To learn basics of BLAST algorithm and the working of the tool.
 
 •	To learn types of BLAST and its application in genetic studies. 
 
